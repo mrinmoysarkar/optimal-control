@@ -1,5 +1,5 @@
 function [X,u,pf,t]=simoptsys(A,B,r,x0,tf)
-[tb,p]=ode45(@DRE,-tf:.001:0,[2;0;2]);
+[tb,p]=ode45(@DRE,-tf:0.001:0,[2;0;2]);
 pf = flipud(p);
 t = -flipud(tb);
 k = (1/r)*pf(:,2:3);
