@@ -1,3 +1,12 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{ipendulam}
+\url{https://www.ee.usyd.edu.au/tutorials_online/matlab/examples/pend/invpen.html}.
+
+\bibitem{rkMethod}
+\url{https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods }.
+
+\bibitem{lecNote}
+Ecen-865 lecture notes.
 
 \end{thebibliography}

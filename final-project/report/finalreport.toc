@@ -1,2 +1,10 @@
-\select@language {english}
-\contentsline {section}{\numberline {1}About this design}{2}
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Abstract}{1}
+\contentsline {section}{\numberline {2}Introduction}{3}
+\contentsline {section}{\numberline {3}System model of inverted pendulum and State space representation \cite {ipendulam}}{4}
+\contentsline {subsection}{\numberline {3.1}Force analysis and system equations}{4}
+\contentsline {subsection}{\numberline {3.2} State space representation of the system}{6}
+\contentsline {section}{\numberline {4}LQ tracker formulation}{6}
+\contentsline {section}{\numberline {5}Simulation}{8}
+\contentsline {section}{\numberline {6}Conclusion}{12}
+\contentsline {section}{\numberline {A}\\ \textsc {Matlab} Code}{12}
